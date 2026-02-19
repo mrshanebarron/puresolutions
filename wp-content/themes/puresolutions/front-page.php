@@ -188,19 +188,19 @@
         <div class="grid grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             <div class="gsap-reveal">
                 <span class="font-heading text-4xl md:text-5xl font-bold text-white block" data-count="20" data-suffix="+">0</span>
-                <span class="text-white/70 text-sm font-semibold tracking-wider uppercase mt-2 block">Years Experience</span>
+                <span class="text-white/90 text-sm font-semibold tracking-wider uppercase mt-2 block">Years Experience</span>
             </div>
             <div class="gsap-reveal">
                 <span class="font-heading text-4xl md:text-5xl font-bold text-white block" data-count="150" data-suffix="+">0</span>
-                <span class="text-white/70 text-sm font-semibold tracking-wider uppercase mt-2 block">Communities Served</span>
+                <span class="text-white/90 text-sm font-semibold tracking-wider uppercase mt-2 block">Communities Served</span>
             </div>
             <div class="gsap-reveal">
-                <span class="font-heading text-4xl md:text-5xl font-bold text-accent block" data-count="50" data-prefix="$" data-suffix="M+">0</span>
-                <span class="text-white/70 text-sm font-semibold tracking-wider uppercase mt-2 block">Cost Savings Delivered</span>
+                <span class="font-heading text-4xl md:text-5xl font-bold text-white block" data-count="50" data-prefix="$" data-suffix="M+">0</span>
+                <span class="text-white/90 text-sm font-semibold tracking-wider uppercase mt-2 block">Cost Savings Delivered</span>
             </div>
             <div class="gsap-reveal">
                 <span class="font-heading text-4xl md:text-5xl font-bold text-white block" data-count="98" data-suffix="%">0</span>
-                <span class="text-white/70 text-sm font-semibold tracking-wider uppercase mt-2 block">Client Retention</span>
+                <span class="text-white/90 text-sm font-semibold tracking-wider uppercase mt-2 block">Client Retention</span>
             </div>
         </div>
     </div>
