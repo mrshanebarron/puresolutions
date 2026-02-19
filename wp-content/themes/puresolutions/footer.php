@@ -7,16 +7,9 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
             <!-- Company Info -->
             <div class="lg:col-span-1">
-                <div class="flex items-center space-x-3 mb-6">
-                    <div class="w-10 h-10 bg-primary rounded-lg flex items-center justify-center">
-                        <svg class="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
-                            <path stroke-linecap="round" stroke-linejoin="round" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4" />
-                        </svg>
-                    </div>
-                    <div>
-                        <span class="font-heading text-lg font-bold leading-none block text-navy">Pure Solutions</span>
-                        <span class="text-xs text-gray-500 tracking-wider uppercase">Senior Living Consulting</span>
-                    </div>
+                <div class="mb-6">
+                    <span class="font-heading text-lg font-bold leading-none block text-navy">Pure Solutions</span>
+                    <span class="text-xs text-gray-500 tracking-wider uppercase">Senior Living Consulting</span>
                 </div>
                 <p class="text-gray-500 text-sm leading-relaxed mb-6">
                     Empowering senior living communities through strategic procurement, operational optimization, and technology enablement. Over 20 years of dedicated industry expertise.
