@@ -217,13 +217,13 @@
             </p>
         </div>
         <div x-data="testimonialSlider()" class="gsap-reveal">
-            <div class="max-w-3xl mx-auto">
+            <div class="max-w-3xl mx-auto relative">
                 <template x-for="(testimonial, index) in testimonials" :key="index">
                     <div x-show="current === index"
                          x-transition:enter="transition ease-out duration-500"
-                         x-transition:enter-start="opacity-0 translate-x-8"
-                         x-transition:enter-end="opacity-100 translate-x-0"
-                         x-transition:leave="transition ease-in duration-300"
+                         x-transition:enter-start="opacity-0"
+                         x-transition:enter-end="opacity-100"
+                         x-transition:leave="transition ease-in duration-300 absolute inset-0"
                          x-transition:leave-start="opacity-100"
                          x-transition:leave-end="opacity-0">
                         <div class="testimonial-card">
