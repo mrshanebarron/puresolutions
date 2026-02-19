@@ -21,7 +21,7 @@ get_header(); ?>
             <!-- FAQ 1 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(0)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">What does the engagement process look like from start to finish?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">What does the engagement process look like from start to finish?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 0 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -36,7 +36,7 @@ get_header(); ?>
             <!-- FAQ 2 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(1)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">How long does a typical consulting engagement last?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">How long does a typical consulting engagement last?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 1 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -51,7 +51,7 @@ get_header(); ?>
             <!-- FAQ 3 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(2)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">How is pricing structured? Are there hidden costs?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">How is pricing structured? Are there hidden costs?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 2 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -66,7 +66,7 @@ get_header(); ?>
             <!-- FAQ 4 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(3)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">Do you work with communities outside of senior living?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">Do you work with communities outside of senior living?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 3 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -81,7 +81,7 @@ get_header(); ?>
             <!-- FAQ 5 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(4)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">Can you work with us remotely, or do you need to be on-site?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">Can you work with us remotely, or do you need to be on-site?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 4 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -96,7 +96,7 @@ get_header(); ?>
             <!-- FAQ 6 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(5)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">What kind of results can we expect, and when?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">What kind of results can we expect, and when?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 5 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -111,7 +111,7 @@ get_header(); ?>
             <!-- FAQ 7 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(6)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">How do you ensure changes stick after the engagement ends?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">How do you ensure changes stick after the engagement ends?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 6 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -126,7 +126,7 @@ get_header(); ?>
             <!-- FAQ 8 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(7)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">How do we get started?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">How do we get started?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 7 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -141,7 +141,7 @@ get_header(); ?>
             <!-- FAQ 9 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(8)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">Do you work with non-profit and faith-based communities?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">Do you work with non-profit and faith-based communities?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 8 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>
@@ -156,7 +156,7 @@ get_header(); ?>
             <!-- FAQ 10 -->
             <div class="faq-item gsap-reveal">
                 <button @click="toggle(9)" class="faq-trigger w-full flex items-center justify-between py-6 text-left">
-                    <span class="font-heading text-lg font-bold text-dark pr-8">What size communities do you work with?</span>
+                    <span class="font-heading text-lg font-bold text-navy pr-8">What size communities do you work with?</span>
                     <svg class="w-5 h-5 text-primary flex-shrink-0 transition-transform duration-300" :class="{ 'rotate-180': open === 9 }" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                         <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                     </svg>

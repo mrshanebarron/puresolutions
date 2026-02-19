@@ -35,12 +35,12 @@ get_header(); ?>
                     </div>
                     <span class="text-primary font-semibold text-sm tracking-widest uppercase">Community Type</span>
                 </div>
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-6">Assisted Living</h2>
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">Assisted Living</h2>
                 <p class="text-text-light text-lg leading-relaxed mb-6">
                     Assisted living communities face the constant challenge of delivering personalized care at scale while managing thin margins and evolving regulatory requirements. Our consultants understand the staffing ratios, ADL support models, and compliance frameworks that define this segment.
                 </p>
 
-                <h3 class="font-heading text-xl font-bold text-dark mb-4">Challenges We Address</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-4">Challenges We Address</h3>
                 <div class="space-y-3 mb-8">
                     <div class="flex items-start space-x-3">
                         <svg class="w-5 h-5 text-accent mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z"/></svg>
@@ -60,7 +60,7 @@ get_header(); ?>
                     </div>
                 </div>
 
-                <h3 class="font-heading text-xl font-bold text-dark mb-4">Outcomes Delivered</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-4">Outcomes Delivered</h3>
                 <div class="grid grid-cols-2 gap-4 mb-8">
                     <div class="bg-white rounded-lg p-4 text-center shadow-sm">
                         <span class="font-heading text-2xl font-bold text-primary block">18%</span>
@@ -104,12 +104,12 @@ get_header(); ?>
                     </div>
                     <span class="text-secondary font-semibold text-sm tracking-widest uppercase">Community Type</span>
                 </div>
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-6">Memory Care</h2>
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">Memory Care</h2>
                 <p class="text-text-light text-lg leading-relaxed mb-6">
                     Memory care requires specialized approaches to environment design, programming, staff training, and family communication that go far beyond general assisted living operations. Our consultants have deep experience in Alzheimer's and dementia care environments.
                 </p>
 
-                <h3 class="font-heading text-xl font-bold text-dark mb-4">Challenges We Address</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-4">Challenges We Address</h3>
                 <div class="space-y-3 mb-8">
                     <div class="flex items-start space-x-3">
                         <svg class="w-5 h-5 text-accent mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z"/></svg>
@@ -154,12 +154,12 @@ get_header(); ?>
                     </div>
                     <span class="text-accent font-semibold text-sm tracking-widest uppercase">Community Type</span>
                 </div>
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-6">Independent Living</h2>
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">Independent Living</h2>
                 <p class="text-text-light text-lg leading-relaxed mb-6">
                     Independent living communities compete on lifestyle, amenities, and value. The residents choosing your community are active, discerning, and comparing your offering against not just other communities but against staying in their own homes. Winning and retaining those residents requires operational excellence and a compelling value proposition.
                 </p>
 
-                <h3 class="font-heading text-xl font-bold text-dark mb-4">Challenges We Address</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-4">Challenges We Address</h3>
                 <div class="space-y-3 mb-8">
                     <div class="flex items-start space-x-3">
                         <svg class="w-5 h-5 text-accent mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z"/></svg>
@@ -203,12 +203,12 @@ get_header(); ?>
                     </div>
                     <span class="text-primary font-semibold text-sm tracking-widest uppercase">Community Type</span>
                 </div>
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-6">Continuing Care Retirement Communities</h2>
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">Continuing Care Retirement Communities</h2>
                 <p class="text-text-light text-lg leading-relaxed mb-6">
                     CCRCs represent the most complex operating model in senior living — managing independent living, assisted living, and skilled nursing under one roof with unified financial structures, entrance fee models, and continuum-of-care promises. The consulting needs are as layered as the operation itself.
                 </p>
 
-                <h3 class="font-heading text-xl font-bold text-dark mb-4">Challenges We Address</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-4">Challenges We Address</h3>
                 <div class="space-y-3 mb-8">
                     <div class="flex items-start space-x-3">
                         <svg class="w-5 h-5 text-accent mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m9-.75a9 9 0 11-18 0 9 9 0 0118 0zm-9 3.75h.008v.008H12v-.008z"/></svg>

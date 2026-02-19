@@ -26,7 +26,7 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div class="gsap-reveal">
                 <span class="gold-line mb-6"></span>
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-6">
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-6">
                     Your Partner in Senior Living Operations
                 </h2>
                 <p class="text-text-light text-lg leading-relaxed mb-6">
@@ -51,7 +51,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-14 gsap-reveal">
             <span class="gold-line mx-auto mb-6"></span>
-            <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-4">How We Help</h2>
+            <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-4">How We Help</h2>
             <p class="text-text-light text-lg max-w-2xl mx-auto">
                 Four pillars of expertise designed to strengthen every aspect of your senior living operation.
             </p>
@@ -64,7 +64,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" d="M9 12h3.75M9 15h3.75M9 18h3.75m3 .75H18a2.25 2.25 0 002.25-2.25V6.108c0-1.135-.845-2.098-1.976-2.192a48.424 48.424 0 00-1.123-.08m-5.801 0c-.065.21-.1.433-.1.664 0 .414.336.75.75.75h4.5a.75.75 0 00.75-.75 2.25 2.25 0 00-.1-.664m-5.8 0A2.251 2.251 0 0113.5 2.25H15a2.25 2.25 0 012.15 1.586m-5.8 0c-.376.023-.75.05-1.124.08C9.095 4.01 8.25 4.973 8.25 6.108V8.25m0 0H4.875c-.621 0-1.125.504-1.125 1.125v11.25c0 .621.504 1.125 1.125 1.125h9.75c.621 0 1.125-.504 1.125-1.125V9.375c0-.621-.504-1.125-1.125-1.125H8.25zM6.75 12h.008v.008H6.75V12zm0 3h.008v.008H6.75V15zm0 3h.008v.008H6.75V18z" />
                     </svg>
                 </div>
-                <h3 class="font-heading text-xl font-bold text-dark mb-3">Strategic Procurement</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-3">Strategic Procurement</h3>
                 <p class="text-text-light text-sm leading-relaxed mb-4">
                     Vendor evaluation, contract negotiation, and supply chain optimization that reduces costs without compromising quality.
                 </p>
@@ -81,7 +81,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 3v11.25A2.25 2.25 0 006 16.5h2.25M3.75 3h-1.5m1.5 0h16.5m0 0h1.5m-1.5 0v11.25A2.25 2.25 0 0118 16.5h-2.25m-7.5 0h7.5m-7.5 0l-1 3m8.5-3l1 3m0 0l.5 1.5m-.5-1.5h-9.5m0 0l-.5 1.5m.75-9l3-3 2.148 2.148A12.061 12.061 0 0116.5 7.605" />
                     </svg>
                 </div>
-                <h3 class="font-heading text-xl font-bold text-dark mb-3">Optimization</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-3">Optimization</h3>
                 <p class="text-text-light text-sm leading-relaxed mb-4">
                     Operational efficiency, cost containment, revenue enhancement, and staffing optimization for measurable results.
                 </p>
@@ -98,7 +98,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" d="M9.75 3.104v5.714a2.25 2.25 0 01-.659 1.591L5 14.5M9.75 3.104c-.251.023-.501.05-.75.082m.75-.082a24.301 24.301 0 014.5 0m0 0v5.714c0 .597.237 1.17.659 1.591L19.8 15.3M14.25 3.104c.251.023.501.05.75.082M19.8 15.3l-1.57.393A9.065 9.065 0 0112 15a9.065 9.065 0 00-6.23.693L5 14.5m14.8.8l1.402 1.402c1.232 1.232.65 3.318-1.067 3.611A48.309 48.309 0 0112 21c-2.773 0-5.491-.235-8.135-.687-1.718-.293-2.3-2.379-1.067-3.61L5 14.5" />
                     </svg>
                 </div>
-                <h3 class="font-heading text-xl font-bold text-dark mb-3">Technology Enablement</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-3">Technology Enablement</h3>
                 <p class="text-text-light text-sm leading-relaxed mb-4">
                     EHR implementation, smart building technology, resident engagement platforms, and data-driven analytics.
                 </p>
@@ -115,7 +115,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
                     </svg>
                 </div>
-                <h3 class="font-heading text-xl font-bold text-dark mb-3">Flexible Support</h3>
+                <h3 class="font-heading text-xl font-bold text-navy mb-3">Flexible Support</h3>
                 <p class="text-text-light text-sm leading-relaxed mb-4">
                     Ongoing advisory, project-based engagements, and interim management tailored to your operational needs.
                 </p>
@@ -134,14 +134,14 @@
         <div class="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div class="relative gsap-reveal order-2 lg:order-1">
                 <img src="<?php echo ps_img('business-meeting.jpg'); ?>" alt="Consulting team at work" class="rounded-lg shadow-2xl w-full">
-                <div class="absolute -bottom-4 -right-4 bg-accent text-dark rounded-lg py-4 px-6 shadow-lg hidden md:block">
+                <div class="absolute -bottom-4 -right-4 bg-accent text-navy rounded-lg py-4 px-6 shadow-lg hidden md:block">
                     <span class="font-heading text-2xl font-bold block">98%</span>
                     <span class="text-sm font-semibold">Client Retention</span>
                 </div>
             </div>
             <div class="gsap-reveal order-1 lg:order-2">
                 <span class="gold-line mb-6"></span>
-                <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-8">Why Senior Living Leaders Choose Pure Solutions</h2>
+                <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-8">Why Senior Living Leaders Choose Pure Solutions</h2>
                 <div class="space-y-8">
                     <div class="flex items-start space-x-4">
                         <div class="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0 mt-1">
@@ -150,7 +150,7 @@
                             </svg>
                         </div>
                         <div>
-                            <h3 class="font-heading text-xl font-bold text-dark mb-2">Deep Industry Experience</h3>
+                            <h3 class="font-heading text-xl font-bold text-navy mb-2">Deep Industry Experience</h3>
                             <p class="text-text-light leading-relaxed">Over 20 years working exclusively in senior living means we understand regulatory requirements, staffing challenges, and resident expectations at a level generalist consultants cannot match.</p>
                         </div>
                     </div>
@@ -161,7 +161,7 @@
                             </svg>
                         </div>
                         <div>
-                            <h3 class="font-heading text-xl font-bold text-dark mb-2">Proven Results</h3>
+                            <h3 class="font-heading text-xl font-bold text-navy mb-2">Proven Results</h3>
                             <p class="text-text-light leading-relaxed">Our clients see an average 15-25% reduction in procurement costs within the first year, along with measurable improvements in operational efficiency and resident satisfaction scores.</p>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                             </svg>
                         </div>
                         <div>
-                            <h3 class="font-heading text-xl font-bold text-dark mb-2">True Partnership</h3>
+                            <h3 class="font-heading text-xl font-bold text-navy mb-2">True Partnership</h3>
                             <p class="text-text-light leading-relaxed">We embed with your team rather than hand off a binder of recommendations. Our consultants work alongside your staff to implement changes and transfer knowledge that sustains results long after our engagement ends.</p>
                         </div>
                     </div>
@@ -211,7 +211,7 @@
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-14 gsap-reveal">
             <span class="gold-line mx-auto mb-6"></span>
-            <h2 class="font-heading text-3xl md:text-4xl font-bold text-dark mb-4">What Our Clients Say</h2>
+            <h2 class="font-heading text-3xl md:text-4xl font-bold text-navy mb-4">What Our Clients Say</h2>
             <p class="text-text-light text-lg max-w-2xl mx-auto">
                 Trusted by senior living operators across the country to deliver meaningful, lasting improvements.
             </p>
@@ -230,11 +230,11 @@
                             <svg class="w-10 h-10 text-accent/30 mb-4" fill="currentColor" viewBox="0 0 24 24">
                                 <path d="M14.017 21v-7.391c0-5.704 3.731-9.57 8.983-10.609l.995 2.151c-2.432.917-3.995 3.638-3.995 5.849h4v10h-9.983zm-14.017 0v-7.391c0-5.704 3.748-9.57 9-10.609l.996 2.151c-2.433.917-3.996 3.638-3.996 5.849h3.983v10h-9.983z"/>
                             </svg>
-                            <p class="text-lg md:text-xl text-dark leading-relaxed mb-6 italic font-light" x-text="testimonial.quote"></p>
+                            <p class="text-lg md:text-xl text-navy leading-relaxed mb-6 italic font-light" x-text="testimonial.quote"></p>
                             <div class="flex items-center space-x-4">
                                 <div class="w-12 h-12 bg-primary rounded-full flex items-center justify-center text-white font-bold text-lg" x-text="testimonial.initials"></div>
                                 <div>
-                                    <p class="font-bold text-dark" x-text="testimonial.name"></p>
+                                    <p class="font-bold text-navy" x-text="testimonial.name"></p>
                                     <p class="text-text-light text-sm" x-text="testimonial.title"></p>
                                 </div>
                             </div>

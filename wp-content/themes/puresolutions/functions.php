@@ -59,7 +59,7 @@ function puresolutions_tailwind_config() {
                     'secondary-dark': '#257a4a',
                     accent: '#D4A843',
                     'accent-dark': '#c49a38',
-                    dark: '#1a1a2e',
+                    navy: '#1a1a2e',
                     light: '#f8f6f3',
                     'text-main': '#333333',
                     'text-light': '#666666',

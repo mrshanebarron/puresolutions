@@ -1,7 +1,7 @@
 </main>
 
 <!-- Footer -->
-<footer class="site-footer bg-dark text-white">
+<footer class="site-footer bg-navy text-white">
     <!-- Main Footer -->
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
@@ -34,7 +34,7 @@
 
             <!-- Quick Links -->
             <div>
-                <h4 class="font-heading text-lg font-bold mb-6 text-dark">Quick Links</h4>
+                <h4 class="font-heading text-lg font-bold mb-6 text-white">Quick Links</h4>
                 <ul class="space-y-3">
                     <li><a href="<?php echo home_url('/'); ?>" class="text-gray-400 hover:text-accent no-underline text-sm">Home</a></li>
                     <li><a href="<?php echo home_url('/about/'); ?>" class="text-gray-400 hover:text-accent no-underline text-sm">About Us</a></li>
@@ -47,7 +47,7 @@
 
             <!-- Services -->
             <div>
-                <h4 class="font-heading text-lg font-bold mb-6 text-dark">Services</h4>
+                <h4 class="font-heading text-lg font-bold mb-6 text-white">Services</h4>
                 <ul class="space-y-3">
                     <li><a href="<?php echo home_url('/services/'); ?>" class="text-gray-400 hover:text-accent no-underline text-sm">Strategic Procurement</a></li>
                     <li><a href="<?php echo home_url('/services/'); ?>" class="text-gray-400 hover:text-accent no-underline text-sm">Operational Optimization</a></li>
@@ -60,7 +60,7 @@
 
             <!-- Contact Info -->
             <div>
-                <h4 class="font-heading text-lg font-bold mb-6 text-dark">Contact</h4>
+                <h4 class="font-heading text-lg font-bold mb-6 text-white">Contact</h4>
                 <ul class="space-y-4">
                     <li class="flex items-start space-x-3">
                         <svg class="w-5 h-5 text-accent mt-0.5 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">

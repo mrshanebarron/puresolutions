@@ -29,7 +29,7 @@ get_header(); ?>
             <!-- Starter -->
             <div class="package-card bg-light rounded-2xl p-8 shadow-sm gsap-stagger-item">
                 <div class="mb-8">
-                    <h3 class="font-heading text-2xl font-bold text-dark mb-2">Starter</h3>
+                    <h3 class="font-heading text-2xl font-bold text-navy mb-2">Starter</h3>
                     <p class="text-text-light text-sm">For single-community operators seeking targeted assessment and actionable recommendations.</p>
                 </div>
                 <div class="mb-8">
@@ -71,7 +71,7 @@ get_header(); ?>
             <!-- Professional (Featured) -->
             <div class="package-card package-featured bg-white rounded-2xl p-8 shadow-lg gsap-stagger-item">
                 <div class="mb-8">
-                    <h3 class="font-heading text-2xl font-bold text-dark mb-2">Professional</h3>
+                    <h3 class="font-heading text-2xl font-bold text-navy mb-2">Professional</h3>
                     <p class="text-text-light text-sm">For multi-site operators seeking full optimization across procurement, operations, and technology.</p>
                 </div>
                 <div class="mb-8">
@@ -117,7 +117,7 @@ get_header(); ?>
             <!-- Enterprise -->
             <div class="package-card bg-light rounded-2xl p-8 shadow-sm gsap-stagger-item">
                 <div class="mb-8">
-                    <h3 class="font-heading text-2xl font-bold text-dark mb-2">Enterprise</h3>
+                    <h3 class="font-heading text-2xl font-bold text-navy mb-2">Enterprise</h3>
                     <p class="text-text-light text-sm">For large portfolios seeking a comprehensive, ongoing consulting partnership.</p>
                 </div>
                 <div class="mb-8">
@@ -167,16 +167,16 @@ get_header(); ?>
 <section class="py-16 bg-light">
     <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="text-center mb-10 gsap-reveal">
-            <h2 class="font-heading text-3xl font-bold text-dark mb-4">Package Comparison</h2>
+            <h2 class="font-heading text-3xl font-bold text-navy mb-4">Package Comparison</h2>
         </div>
         <div class="bg-white rounded-xl shadow-sm overflow-x-auto gsap-reveal">
             <table class="w-full text-sm">
                 <thead>
                     <tr class="border-b border-gray-200">
-                        <th class="text-left py-4 px-6 font-heading font-bold text-dark">Feature</th>
-                        <th class="text-center py-4 px-4 font-heading font-bold text-dark">Starter</th>
+                        <th class="text-left py-4 px-6 font-heading font-bold text-navy">Feature</th>
+                        <th class="text-center py-4 px-4 font-heading font-bold text-navy">Starter</th>
                         <th class="text-center py-4 px-4 font-heading font-bold text-accent bg-accent/5">Professional</th>
-                        <th class="text-center py-4 px-4 font-heading font-bold text-dark">Enterprise</th>
+                        <th class="text-center py-4 px-4 font-heading font-bold text-navy">Enterprise</th>
                     </tr>
                 </thead>
                 <tbody>

@@ -22,7 +22,7 @@ $contact_success = isset($_GET['contact']) && $_GET['contact'] === 'success';
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-16">
             <!-- Contact Form -->
             <div class="lg:col-span-2 gsap-reveal">
-                <h2 class="font-heading text-3xl font-bold text-dark mb-2">Schedule a Consultation</h2>
+                <h2 class="font-heading text-3xl font-bold text-navy mb-2">Schedule a Consultation</h2>
                 <p class="text-text-light mb-8">Fill out the form below and a member of our team will be in touch within one business day to schedule your complimentary consultation.</p>
 
                 <?php if ($contact_success) : ?>
@@ -32,7 +32,7 @@ $contact_success = isset($_GET['contact']) && $_GET['contact'] === 'success';
                             <path stroke-linecap="round" stroke-linejoin="round" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
                         </svg>
                         <div>
-                            <h3 class="font-bold text-dark mb-1">Thank you for reaching out!</h3>
+                            <h3 class="font-bold text-navy mb-1">Thank you for reaching out!</h3>
                             <p class="text-text-light text-sm">Your message has been received. A member of our team will be in touch within one business day to schedule your consultation.</p>
                         </div>
                     </div>
@@ -89,7 +89,7 @@ $contact_success = isset($_GET['contact']) && $_GET['contact'] === 'success';
             <div class="lg:col-span-1">
                 <div class="gsap-reveal">
                     <div class="bg-light rounded-xl p-8 mb-8">
-                        <h3 class="font-heading text-xl font-bold text-dark mb-6">Contact Information</h3>
+                        <h3 class="font-heading text-xl font-bold text-navy mb-6">Contact Information</h3>
                         <div class="space-y-6">
                             <div class="flex items-start space-x-4">
                                 <div class="w-10 h-10 bg-primary/10 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -99,7 +99,7 @@ $contact_success = isset($_GET['contact']) && $_GET['contact'] === 'success';
                                     </svg>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-dark text-sm mb-1">Office</h4>
+                                    <h4 class="font-bold text-navy text-sm mb-1">Office</h4>
                                     <p class="text-text-light text-sm leading-relaxed">4200 Westheimer Road<br>Suite 320<br>Houston, TX 77027</p>
                                 </div>
                             </div>
@@ -110,7 +110,7 @@ $contact_success = isset($_GET['contact']) && $_GET['contact'] === 'success';
                                     </svg>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-dark text-sm mb-1">Phone</h4>
+                                    <h4 class="font-bold text-navy text-sm mb-1">Phone</h4>
                                     <a href="tel:+18005551234" class="text-primary hover:text-accent no-underline text-sm font-medium">(800) 555-1234</a>
                                 </div>
                             </div>
@@ -121,7 +121,7 @@ $contact_success = isset($_GET['contact']) && $_GET['contact'] === 'success';
                                     </svg>
                                 </div>
                                 <div>
-                                    <h4 class="font-bold text-dark text-sm mb-1">Email</h4>
+                                    <h4 class="font-bold text-navy text-sm mb-1">Email</h4>
                                     <a href="mailto:info@puresolutions.com" class="text-primary hover:text-accent no-underline text-sm font-medium">info@puresolutions.com</a>
                                 </div>
                             </div>

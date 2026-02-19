@@ -19,7 +19,7 @@
                     </svg>
                 </div>
                 <div>
-                    <span class="font-heading text-xl font-bold text-dark leading-none block">Pure Solutions</span>
+                    <span class="font-heading text-xl font-bold text-navy leading-none block">Pure Solutions</span>
                     <span class="text-xs text-text-light tracking-wider uppercase font-semibold">Senior Living Consulting</span>
                 </div>
             </a>
@@ -41,7 +41,7 @@
                         $is_current = (parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) === '/' || parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) === '/home/');
                     }
                 ?>
-                    <a href="<?php echo esc_url($url); ?>" class="px-4 py-2 text-sm font-semibold tracking-wide uppercase no-underline transition-colors duration-200 rounded <?php echo $is_current ? 'text-primary bg-primary/5' : 'text-dark hover:text-primary'; ?>">
+                    <a href="<?php echo esc_url($url); ?>" class="px-4 py-2 text-sm font-semibold tracking-wide uppercase no-underline transition-colors duration-200 rounded <?php echo $is_current ? 'text-primary bg-primary/5' : 'text-navy hover:text-primary'; ?>">
                         <?php echo esc_html($label); ?>
                     </a>
                 <?php endforeach; ?>
@@ -51,7 +51,7 @@
             </nav>
 
             <!-- Mobile Menu Button -->
-            <button @click="mobileMenu = !mobileMenu" class="lg:hidden p-2 text-dark hover:text-primary transition-colors" aria-label="Toggle menu">
+            <button @click="mobileMenu = !mobileMenu" class="lg:hidden p-2 text-navy hover:text-primary transition-colors" aria-label="Toggle menu">
                 <svg x-show="!mobileMenu" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                     <path stroke-linecap="round" stroke-linejoin="round" d="M4 6h16M4 12h16M4 18h16" />
                 </svg>
@@ -72,7 +72,7 @@
                     $is_current = (parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) === '/' || parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) === '/home/');
                 }
             ?>
-                <a href="<?php echo esc_url($url); ?>" class="block px-4 py-3 text-sm font-semibold tracking-wide uppercase no-underline rounded transition-colors duration-200 <?php echo $is_current ? 'text-primary bg-primary/5' : 'text-dark hover:text-primary hover:bg-gray-50'; ?>">
+                <a href="<?php echo esc_url($url); ?>" class="block px-4 py-3 text-sm font-semibold tracking-wide uppercase no-underline rounded transition-colors duration-200 <?php echo $is_current ? 'text-primary bg-primary/5' : 'text-navy hover:text-primary hover:bg-gray-50'; ?>">
                     <?php echo esc_html($label); ?>
                 </a>
             <?php endforeach; ?>
