@@ -1,0 +1,30 @@
+# WordPress core (keep only wp-content and config)
+/wp-admin/
+/wp-includes/
+/wp-*.php
+/index.php
+/license.txt
+/readme.html
+/xmlrpc.php
+
+# Config with credentials
+wp-config.php
+
+# Uploads (too large for git)
+wp-content/uploads/
+
+# Cache and temp
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backup-db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Default themes we don't need in repo
+wp-content/themes/twentytwenty*/
+
+# Plugins we don't modify
+wp-content/plugins/akismet/
+wp-content/plugins/hello.php
