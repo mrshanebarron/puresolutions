@@ -5,7 +5,7 @@
     <img src="<?php echo ps_img('hero-facility.jpg'); ?>" alt="Senior living facility" class="absolute inset-0 w-full h-full object-cover">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 w-full">
         <div class="max-w-2xl">
-            <span class="inline-block text-accent font-semibold text-sm tracking-widest uppercase mb-4">Trusted Industry Partner</span>
+            <span class="inline-block text-white/80 font-semibold text-sm tracking-widest uppercase mb-4">Trusted Industry Partner</span>
             <h1 class="font-heading text-4xl md:text-5xl lg:text-6xl font-bold text-white leading-tight mb-6">
                 Strategic Solutions for Senior Living Excellence
             </h1>
